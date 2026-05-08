@@ -1,1 +1,52 @@
+CREATIBG EMPLOYEE TABLE
+create table Employee(
+  emp_id int,
+  name varchar(20),
+  age int,
+  salary int,
+  dept_id int,
+  hire_date date
+ );
+ 
+ insert into Employee (emp_id,name,age,salary,dept_id,hire_date) values
+ (1,'Jhon Doe',28,50000,1,'2020-01-15'),
+ (2,'Jane Smith',34,60000,2,'2019-07-23'),
+ (3,'Bob Brown',45,80000,1,'2018-02-12'),
+ (4,'Alice Blue',25,45000,3,'2021-03-22'),
+ (5,'Charlie p',29,50000,2,'2019-12-01');
+
+**Schema (MySQL v5.7)**
+
+    create table Employee(
+      emp_id int,
+      name varchar(20),
+      age int,
+      salary int,
+      dept_id int,
+      hire_date date
+     );
+     
+     insert into Employee (emp_id,name,age,salary,dept_id,hire_date) values
+     (1,'Jhon Doe',28,50000,1,'2020-01-15'),
+     (2,'Jane Smith',34,60000,2,'2019-07-23'),
+     (3,'Bob Brown',45,80000,1,'2018-02-12'),
+     (4,'Alice Blue',25,45000,3,'2021-03-22'),
+     (5,'Charlie p',29,50000,2,'2019-12-01');
+    
+
+---
+
+**Query #1**
+
+select * from Employee;
+
+| emp_id | name       | age | salary | dept_id | hire_date  |
+| ------ | ---------- | --- | ------ | ------- | ---------- |
+| 1      | Jhon Doe   | 28  | 50000  | 1       | 2020-01-15 |
+| 2      | Jane Smith | 34  | 60000  | 2       | 2019-07-23 |
+| 3      | Bob Brown  | 45  | 80000  | 1       | 2018-02-12 |
+| 4      | Alice Blue | 25  | 45000  | 3       | 2021-03-22 |
+| 5      | Charlie p  | 29  | 50000  | 2       | 2019-12-01 |
+
+---
 
