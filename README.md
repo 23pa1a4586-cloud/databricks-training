@@ -6,6 +6,7 @@ This repository contains my work and practice for Databricks Data Engineering Tr
 Week-wise organization
 Each week contains day-wise folders
 Includes SQL scripts, outputs, and notes
+
 📂 Folder Structure
 databricks-training/
 │
@@ -15,6 +16,7 @@ databricks-training/
 │   ├── day3/
 │
 ├── README.md
+
 🛠 Tools Used
 Databricks
 SQL
