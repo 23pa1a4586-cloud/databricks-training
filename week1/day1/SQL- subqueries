@@ -1,7 +1,7 @@
---Creating tables
+--Creating EMPLOYEE table
 --Employee table
 
-CREATIBG EMPLOYEE TABLE
+
 create table Employee(
   emp_id int,
   name varchar(20),
