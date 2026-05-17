@@ -7,11 +7,12 @@ Week-wise organization
 Each week contains day-wise folders
 Includes SQL scripts, outputs, and notes
 
-🛠 Tools Used
+🛠 Tools Used:
 Databricks
 SQL
 DB-Fiddle
 GitHub
+
 🎯 Goal
 To build strong data engineering and SQL skills through consistent practice and proper documentation.
 
