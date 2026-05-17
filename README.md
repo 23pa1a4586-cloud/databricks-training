@@ -7,16 +7,6 @@ Week-wise organization
 Each week contains day-wise folders
 Includes SQL scripts, outputs, and notes
 
-📂 Folder Structure
-databricks-training/
-│
-├── week1/
-│   ├── day1/
-│   ├── day2/
-│   ├── day3/
-│
-├── README.md
-
 🛠 Tools Used
 Databricks
 SQL
