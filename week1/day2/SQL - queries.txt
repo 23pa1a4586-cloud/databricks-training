@@ -1,6 +1,6 @@
 -- =========================================
 -- Databricks SQL Training - Day 2 Advanced Queries
--- Author: Varshitha Yejerla
+-- Author: Manikonda Jhansi
 -- =========================================
 
 
